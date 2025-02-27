@@ -1,5 +1,9 @@
 ---
-title: "lab_attendance"
+title: "ESS-330 Attendance"
+subtite: Brandon Pizer
 format: html
 ---
 
+**Lab Attendance**
+
+#2/27
